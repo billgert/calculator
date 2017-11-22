@@ -19,7 +19,7 @@ int main() {
 
 void input() {
   printf("Operation: ");
-  scanf( "%i %c %i", &num1, &operator, &num2);
+  scanf("%i %c %i", &num1, &operator, &num2);
 }
 
 void listen() {
